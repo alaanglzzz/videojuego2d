@@ -1,0 +1,46 @@
+
+body.fortnite-theme {
+    background: radial-gradient(circle, #2087ff 0%, #111122 100%);
+    color: white;
+    font-family: 'Arial Black', sans-serif;
+}
+
+.header-fortnite {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-bottom: 4px solid #2087ff;
+}
+
+.drop-shadow {
+    filter: drop-shadow(0px 5px 5px rgba(0,0,0,0.5));
+}
+
+
+canvas {
+    background-image: url("assets/img/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    border: 5px solid #f9d71c; /* Dorado Legendario */
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+    /* Puntero personalizado (Mira) */
+    cursor: url("assets/icon/mira.png") 16 16, crosshair; 
+}
+
+
+.alert-fortnite {
+    background-color: rgba(32, 135, 255, 0.8);
+    color: #ffffff;
+    border: 2px solid #00f2ff;
+    border-radius: 0;
+    clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%); /* Efecto visual inclinado */
+}
+
+.footer-fortnite {
+    background-color: #000000;
+    border-top: 3px solid #f9d71c;
+}
+
+#contador {
+    font-size: 1.5rem;
+    border: 2px solid #ffffff;
+}
