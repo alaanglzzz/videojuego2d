@@ -20,7 +20,7 @@
 
 ---
 **Equipo de Desarrollo:**
-* [cite_start]Alan Alessandro Gonzalez Arroyo - (No. Control: [Tu número]) 
-* [cite_start]Jose Luis Gomez Cruz - (No. Control: [Su número]) 
+* [cite_start]Alan Alessandro Gonzalez Arroyo - (No. Control: [23201260]) 
+* [cite_start]Jose Luis Gomez Cruz - (No. Control: [23200841]) 
 * [cite_start]**Materia:** Graficación (I.S.C.) [cite: 3]
 * **Profesor:** M.T.I. [cite_start]Luis Alejandro Santana Valadez [cite: 4]
